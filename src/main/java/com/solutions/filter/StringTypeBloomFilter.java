@@ -1,5 +1,7 @@
 package com.solutions.filter;
-
+/**
+ * This class is a wrapper to the Google Guava BloomFilter for String type.
+**/
 import com.google.common.hash.BloomFilter;
 import com.google.common.hash.Funnels;
 
